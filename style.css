@@ -1,0 +1,14 @@
+.div-input-ip{
+    display: flex;
+}
+
+.input-ip{
+    display: flex;
+    width: 200px;
+    margin: 50px;
+}
+
+.result-ip{
+    display: flex;
+    margin: 50px;
+}
