@@ -5,7 +5,7 @@
     return $details;
   }
 
-  $ip = $_POST['ip'];
+  $ip = $_REQUEST['ip'];
 
   $details = ip_details($ip);
 
